@@ -1,119 +1,144 @@
 [[autossh]]
 arch = "aarch64"
-git-tree-sha1 = "4cb2b45cdf363c654e45f5c6cc055a3436807641"
+git-tree-sha1 = "406d5459748e2c174c0f16dcb3d35065373f74f5"
 os = "macos"
 
     [[autossh.download]]
-    sha256 = "52fbbac609da63e9a09f13c1604551edb39e57f95c1a748a1e3a5b81455ee7ee"
-    url = "https://github.com/JuliaBinaryWrappers/autossh_jll.jl/releases/download/autossh-v1.4.0+0/autossh.v1.4.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "543adad9c3f4e471f24cce84474b5b3bbe2ce4d88fbfe0796d24f6850e141f95"
+    url = "https://github.com/JuliaBinaryWrappers/autossh_jll.jl/releases/download/autossh-v1.4.0+1/autossh.v1.4.0.aarch64-apple-darwin.tar.gz"
 [[autossh]]
 arch = "aarch64"
-git-tree-sha1 = "fd8e268a1e9e072b6c665e6f8fddecb9b3897107"
+git-tree-sha1 = "522026004847993a21562916f8163f530b9c3f10"
 libc = "glibc"
 os = "linux"
 
     [[autossh.download]]
-    sha256 = "afde007042f37231e40735b80e2fbca467162d685d466b049c52946dee2715ba"
-    url = "https://github.com/JuliaBinaryWrappers/autossh_jll.jl/releases/download/autossh-v1.4.0+0/autossh.v1.4.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "ab6baa1053176a2ca5adb28de86f3f78a6300124bbc909ce54230de4166224fd"
+    url = "https://github.com/JuliaBinaryWrappers/autossh_jll.jl/releases/download/autossh-v1.4.0+1/autossh.v1.4.0.aarch64-linux-gnu.tar.gz"
 [[autossh]]
 arch = "aarch64"
-git-tree-sha1 = "4346f76cf8a64e124390817b387feee9e583e0ce"
+git-tree-sha1 = "738043870ba16ac73b6a8aec711d221c1b81773f"
 libc = "musl"
 os = "linux"
 
     [[autossh.download]]
-    sha256 = "b7b5e9252590fe527822360df3c42aa7bcdf60b54645881316dbd6946f4dea28"
-    url = "https://github.com/JuliaBinaryWrappers/autossh_jll.jl/releases/download/autossh-v1.4.0+0/autossh.v1.4.0.aarch64-linux-musl.tar.gz"
+    sha256 = "74b3a8c1ed12ab6990a84dd978b269f86a90d279093806427e61a06b160ad3d7"
+    url = "https://github.com/JuliaBinaryWrappers/autossh_jll.jl/releases/download/autossh-v1.4.0+1/autossh.v1.4.0.aarch64-linux-musl.tar.gz"
+[[autossh]]
+arch = "aarch64"
+git-tree-sha1 = "6337394dd3caaed20fbf153752fc9ad9c9e17cc0"
+os = "freebsd"
+
+    [[autossh.download]]
+    sha256 = "90762c4880cdf81a178cf4048765dda8469ad06cb4c9648e09645c385adeeac5"
+    url = "https://github.com/JuliaBinaryWrappers/autossh_jll.jl/releases/download/autossh-v1.4.0+1/autossh.v1.4.0.aarch64-unknown-freebsd.tar.gz"
 [[autossh]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "029c4692ffcaadcab925ed2f1227ae70c458db2b"
+git-tree-sha1 = "4a841709aeba39dcbc2c379a8db623d3c5722a60"
 libc = "glibc"
 os = "linux"
 
     [[autossh.download]]
-    sha256 = "581c7787d0aba469d9ed36895f32cf96bffb184b343e93c6c5929dec8a1d5038"
-    url = "https://github.com/JuliaBinaryWrappers/autossh_jll.jl/releases/download/autossh-v1.4.0+0/autossh.v1.4.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "9007fa11ad33f32556fae9aaec666cc7b0b365bb04e3ce2674dc733f409a9998"
+    url = "https://github.com/JuliaBinaryWrappers/autossh_jll.jl/releases/download/autossh-v1.4.0+1/autossh.v1.4.0.armv6l-linux-gnueabihf.tar.gz"
 [[autossh]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "7f31f22451898e598976da7de0801dcb528e70e4"
+git-tree-sha1 = "ed15e03de555395a89c30f91165a8f369731f81d"
 libc = "musl"
 os = "linux"
 
     [[autossh.download]]
-    sha256 = "8ba5a3cb614a300c4bf970f2e3cf009bdb6376ebb292d2db88fe6052dde3f795"
-    url = "https://github.com/JuliaBinaryWrappers/autossh_jll.jl/releases/download/autossh-v1.4.0+0/autossh.v1.4.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "2a5c10e1e55710f5f479025494335066ff34aef9176069136489ba9eee2da77a"
+    url = "https://github.com/JuliaBinaryWrappers/autossh_jll.jl/releases/download/autossh-v1.4.0+1/autossh.v1.4.0.armv6l-linux-musleabihf.tar.gz"
 [[autossh]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "a2b6e477ad3e333cc9ea995a3009c7ec58685c42"
+git-tree-sha1 = "a2fc09746f9227283c5141ec4b51777323faa1e1"
 libc = "glibc"
 os = "linux"
 
     [[autossh.download]]
-    sha256 = "49965e03dbc81e30699cefc24bf0c97a6a3897bf5b693f4641e6461c094de683"
-    url = "https://github.com/JuliaBinaryWrappers/autossh_jll.jl/releases/download/autossh-v1.4.0+0/autossh.v1.4.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "20b71475b7741490775f8bf231b2addb4c2b20ba327a3c57a3c66fc142bc11a7"
+    url = "https://github.com/JuliaBinaryWrappers/autossh_jll.jl/releases/download/autossh-v1.4.0+1/autossh.v1.4.0.armv7l-linux-gnueabihf.tar.gz"
 [[autossh]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "1414022fe54249065c65dd2aebf4d2843e732ae4"
+git-tree-sha1 = "a8dad9dea0589e8ee216d5d70b1429f13de8feea"
 libc = "musl"
 os = "linux"
 
     [[autossh.download]]
-    sha256 = "b88c14abdb42ae8cf5ed692e578d5e25bd21c410c4f17852903868b90c52d39e"
-    url = "https://github.com/JuliaBinaryWrappers/autossh_jll.jl/releases/download/autossh-v1.4.0+0/autossh.v1.4.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "f5e8d4e58b2e10fa14082b84378e0d7c9f34ffef3e73d0d393d78cbeb5b967f2"
+    url = "https://github.com/JuliaBinaryWrappers/autossh_jll.jl/releases/download/autossh-v1.4.0+1/autossh.v1.4.0.armv7l-linux-musleabihf.tar.gz"
 [[autossh]]
 arch = "i686"
-git-tree-sha1 = "c91b8ae0cdf7952cc3ac297026b3bfb7ba78af2a"
+git-tree-sha1 = "3c3003ae6f7dcd524a23fec2c28c2fc1d83ed524"
 libc = "glibc"
 os = "linux"
 
     [[autossh.download]]
-    sha256 = "1de66559078bf5877d7179c34fbbd8bbae85dd02bce378db1f5fdf4264da0697"
-    url = "https://github.com/JuliaBinaryWrappers/autossh_jll.jl/releases/download/autossh-v1.4.0+0/autossh.v1.4.0.i686-linux-gnu.tar.gz"
+    sha256 = "545341fef098e69f218f94221e2cfa1b4e155d07eb33984d28388a16c9b1307c"
+    url = "https://github.com/JuliaBinaryWrappers/autossh_jll.jl/releases/download/autossh-v1.4.0+1/autossh.v1.4.0.i686-linux-gnu.tar.gz"
 [[autossh]]
 arch = "i686"
-git-tree-sha1 = "3bad0a7cff62cd445e2e681cd7c62a1059195cbe"
+git-tree-sha1 = "a799cd485fce94dc68671edeb2166087f2661de3"
 libc = "musl"
 os = "linux"
 
     [[autossh.download]]
-    sha256 = "093a20e7ca28dca87890bc4af4c297757d7f62e111200d185b946dc836f8e034"
-    url = "https://github.com/JuliaBinaryWrappers/autossh_jll.jl/releases/download/autossh-v1.4.0+0/autossh.v1.4.0.i686-linux-musl.tar.gz"
+    sha256 = "15e519403c7b0f05979c67e0489eb12e44dcd462d420c8ea3b248842b6415c62"
+    url = "https://github.com/JuliaBinaryWrappers/autossh_jll.jl/releases/download/autossh-v1.4.0+1/autossh.v1.4.0.i686-linux-musl.tar.gz"
 [[autossh]]
 arch = "powerpc64le"
-git-tree-sha1 = "f1af64a0b4ed51a1450c9ddca7fe8a6aaf47d1ac"
+git-tree-sha1 = "f4105665b7bb7dff78b99472fa0e9ffe0eb0d3d6"
 libc = "glibc"
 os = "linux"
 
     [[autossh.download]]
-    sha256 = "ef306961a2b30bd3c75fc3e237fde89559062ac22630650b1d05ef8d2f916788"
-    url = "https://github.com/JuliaBinaryWrappers/autossh_jll.jl/releases/download/autossh-v1.4.0+0/autossh.v1.4.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "302fe3aace808469d9f800d0573d5ad9ea005def59bfb5ea4df3948514c65e61"
+    url = "https://github.com/JuliaBinaryWrappers/autossh_jll.jl/releases/download/autossh-v1.4.0+1/autossh.v1.4.0.powerpc64le-linux-gnu.tar.gz"
+[[autossh]]
+arch = "riscv64"
+git-tree-sha1 = "b1eee923f5c9c7f64d379596e4b0b5802021f72d"
+libc = "glibc"
+os = "linux"
+
+    [[autossh.download]]
+    sha256 = "531edbdfc168b2f8181569bdc44e3c42903f1bc71678140c70dcc86b3ee956e2"
+    url = "https://github.com/JuliaBinaryWrappers/autossh_jll.jl/releases/download/autossh-v1.4.0+1/autossh.v1.4.0.riscv64-linux-gnu.tar.gz"
 [[autossh]]
 arch = "x86_64"
-git-tree-sha1 = "1514bd20c89212d57fe02de3c86d205b2f289e24"
+git-tree-sha1 = "b21122c0f8e1b31ce48b9ca1e7d0767539fca540"
 os = "macos"
 
     [[autossh.download]]
-    sha256 = "445e2a0df1d67d0d70625edd608692d142ba6e94d20b4594d49ccffacbfbee33"
-    url = "https://github.com/JuliaBinaryWrappers/autossh_jll.jl/releases/download/autossh-v1.4.0+0/autossh.v1.4.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "d42812f3daec005563b8dfe8c7a8b84ba12dd13fdcdff33c63abc159f240dfa3"
+    url = "https://github.com/JuliaBinaryWrappers/autossh_jll.jl/releases/download/autossh-v1.4.0+1/autossh.v1.4.0.x86_64-apple-darwin.tar.gz"
 [[autossh]]
 arch = "x86_64"
-git-tree-sha1 = "f4d8210f59ff8b21f2fcba665a7979995cac1c5e"
+git-tree-sha1 = "f4355bd2e3a308720237af28487ab1c1d1a1fe0c"
 libc = "glibc"
 os = "linux"
 
     [[autossh.download]]
-    sha256 = "1df4117caf92f56ab61a47e7f45bb79174d1eb3a56a935ccd51c54ec6c6d71b3"
-    url = "https://github.com/JuliaBinaryWrappers/autossh_jll.jl/releases/download/autossh-v1.4.0+0/autossh.v1.4.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "5bd1aac900550662fd7bd30018f3bce6788ea6ef47d171c0ea2dc2f1303bbb48"
+    url = "https://github.com/JuliaBinaryWrappers/autossh_jll.jl/releases/download/autossh-v1.4.0+1/autossh.v1.4.0.x86_64-linux-gnu.tar.gz"
 [[autossh]]
 arch = "x86_64"
-git-tree-sha1 = "75e681883a47fd6732c9e0b5b32f1b88acee05b2"
+git-tree-sha1 = "f0b93a4c6ca376de9c6f00fa23c26395cf4a4926"
 libc = "musl"
 os = "linux"
 
     [[autossh.download]]
-    sha256 = "f29db01ae936111c177f4169dd94559ca2840eed4e33542fec7efcd8bbd73f32"
-    url = "https://github.com/JuliaBinaryWrappers/autossh_jll.jl/releases/download/autossh-v1.4.0+0/autossh.v1.4.0.x86_64-linux-musl.tar.gz"
+    sha256 = "e0a43a66f532901c7d00b98eadc5a7b9c4a6a9287b84800e2ff24e3f19f777f3"
+    url = "https://github.com/JuliaBinaryWrappers/autossh_jll.jl/releases/download/autossh-v1.4.0+1/autossh.v1.4.0.x86_64-linux-musl.tar.gz"
+[[autossh]]
+arch = "x86_64"
+git-tree-sha1 = "bb0e205ab8cd06b531d4282e90dd36a03186d6fd"
+os = "freebsd"
+
+    [[autossh.download]]
+    sha256 = "a6448d022aba956277506c0d28c9a600751e2867307c56a95347a21e626f84b4"
+    url = "https://github.com/JuliaBinaryWrappers/autossh_jll.jl/releases/download/autossh-v1.4.0+1/autossh.v1.4.0.x86_64-unknown-freebsd.tar.gz"
